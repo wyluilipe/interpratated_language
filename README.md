@@ -1,2 +1,2 @@
 # C++
-some tasks on programming language C++
+interpreteded programming language on C++ to solve the economical game.
